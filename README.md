@@ -1,24 +1,33 @@
-# jd_yk
+# vue shop phone
 
-## Project setup
+## vue2 
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+使用vue2 cli4脚手架
 ```
 
-### Compiles and minifies for production
+### 仿jd手机端
 ```
-npm run build
-```
+vuex 状态管理
+vue-router 路由
 
-### Lints and fixes files
 ```
-npm run lint
+### lib-flexible
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+lib-flexible做移动端适配
+```
+### axios
+```
+axios 做ajax请求
+```
+### vuex-persistedstate
+```
+作为vuex插件配合持久化
+```
+### reset.css  scss编写css
+```
+作为移动端初始化
+```
+### vue-awesome-swiper
+```
+swiper vue轮播插件
+```
